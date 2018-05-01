@@ -65,7 +65,7 @@
     `plt.show()`
     
   # Willingness to Share Individual Participant Data Plot
-   -  ![alt text](https://github.com/mbihan/biof309_spring2018_project1/tree/master/ContentAnalysisOfClinicalTrialsData/SharePIDByYear.png)
+   -  ![alt text](https://github.com/mbihan/ContentAnalysisOfClinicalTrialsData/tree/master/SharePIDByYear.png)
    
   # References and Thanks
    - http://www.icmje.org/recommendations/browse/publishing-and-editorial-issues/clinical-trial-registration.html#two 
